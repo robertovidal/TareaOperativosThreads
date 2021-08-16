@@ -1,6 +1,10 @@
 #include <pthread.h>
 #include <stdio.h>
 #include <string.h>
+
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 float average;
 int minimum;
 int maximum;

@@ -3,6 +3,9 @@
 #include <pthread.h>
 #include <time.h>
 
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 int pointsInCircle;
 int points = 1000;
 
